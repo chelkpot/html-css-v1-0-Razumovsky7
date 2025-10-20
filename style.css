@@ -48,3 +48,15 @@ div.test td,
 div.test caption {
     padding: 40px 100px 40px 50px;
 }
+
+p.pink{
+    color: pink;
+}
+
+p.red{
+    color: red;
+}
+
+div > p{
+    color: red;
+}
